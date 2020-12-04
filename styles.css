@@ -26,4 +26,5 @@ body {
 
 .mat-card-content {
   padding: 5px !important;
+  background-color: green !important;
 }
